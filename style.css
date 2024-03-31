@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right,green,red);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    line-height: 5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(0,0,0,0.7);
+}
+h2{
+    color: rgba(0,0,0,0.5);
+      
+}
+input{
+    align-self: center;
+}
